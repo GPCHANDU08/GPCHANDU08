@@ -62,4 +62,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpchandu08&show_icons=true&locale=en" alt="GPCHANDU08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GPCHANDU08&" alt="GPCHANDU08" /></p>
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=gpchandu08&show_icons=true&theme=dark" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpchandu08&layout=compact&theme=dark" height="160">
 
