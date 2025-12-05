@@ -57,9 +57,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GPCHANDU08&show_icons=true&locale=en&layout=compact" alt="GPCHANDU08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpchandu08&show_icons=true&locale=en&layout=compact" alt="GPCHANDU08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GPCHANDU08&show_icons=true&locale=en" alt="GPCHANDU08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpchandu08&show_icons=true&locale=en" alt="GPCHANDU08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GPCHANDU08&" alt="GPCHANDU08" /></p>
 
