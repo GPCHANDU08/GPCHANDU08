@@ -61,10 +61,12 @@
 ### 🔥 Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gpchandu08&theme=dark)
 
-### 📚 Languages Used  
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpchandu08&theme=github_dark) 
-### 📁 Repo Language Distribution  
-![Repo Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpchandu08&theme=github_dark)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+   <h3>📚 Languages Used</h3>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpchandu08&theme=github_dark" width="48%">
+   <h3>📁 Repo Language Distribution</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpchandu08&theme=github_dark" width="48%">
+</div>
 
 
 ### 📈 Activity Graph  
