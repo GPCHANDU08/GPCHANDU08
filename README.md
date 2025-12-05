@@ -9,35 +9,7 @@
 </p>
 <h3 align="center">I Develop Web Applications and Solutions</h3> 
 <img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
-### **1️⃣ Dark Minimal Rocket Launch**
 
-![rocket](https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif)
-
----
-
-### **2️⃣ Neon Rocket – Tech Vibes**
-
-![rocket](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
-
----
-
-### **3️⃣ Space Rocket Loop**
-
-![rocket](https://media.giphy.com/media/5t9Ic6tqM0DwE/giphy.gif)
-
----
-
-### **4️⃣ Rocket Line-Art Animation (Dark Friendly)**
-
-![rocket](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
----
-
-### **5️⃣ Startup Launch Rocket**
-
-![rocket](https://media.giphy.com/media/3ohs7YsX53G4ZmPxSw/giphy.gif)
-
----
 
 - 👨‍💻 Check out my Work [Portfolio](https://gpchandu08.github.io/Portfolio/)
 
