@@ -9,6 +9,35 @@
 </p>
 <h3 align="center">I Develop Web Applications and Solutions</h3> 
 <img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
+### 🚀 **Dark Theme GIF Options**
+
+#### **1️⃣ Futuristic Rocket Launch (Dark Theme)**
+
+![Dark Rocket GIF](https://i.imgur.com/8QX4Y8k.gif)
+
+---
+
+#### **2️⃣ Minimal Neon Rocket Launch**
+
+![Neon Rocket GIF](https://i.imgur.com/1ZQJ7xO.gif)
+
+---
+
+#### **3️⃣ Dark Space Startup Animation**
+
+![Space Rocket GIF](https://i.imgur.com/XuD0mcu.gif)
+
+---
+
+#### **4️⃣ Blue Neon Tech Launch GIF**
+
+![Neon Tech GIF](https://i.imgur.com/Oo7tQbF.gif)
+
+---
+
+#### **5️⃣ Futuristic Loading Rocket**
+
+![Loading Rocket](https://i.imgur.com/v2J2m1f.gif)
 
 - 👨‍💻 Check out my Work [Portfolio](https://gpchandu08.github.io/Portfolio/)
 
