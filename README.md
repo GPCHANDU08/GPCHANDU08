@@ -9,35 +9,35 @@
 </p>
 <h3 align="center">I Develop Web Applications and Solutions</h3> 
 <img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
-### 🚀 **Dark Theme GIF Options**
+### **1️⃣ Dark Minimal Rocket Launch**
 
-#### **1️⃣ Futuristic Rocket Launch (Dark Theme)**
-
-![Dark Rocket GIF](https://i.imgur.com/8QX4Y8k.gif)
+![rocket](https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif)
 
 ---
 
-#### **2️⃣ Minimal Neon Rocket Launch**
+### **2️⃣ Neon Rocket – Tech Vibes**
 
-![Neon Rocket GIF](https://i.imgur.com/1ZQJ7xO.gif)
-
----
-
-#### **3️⃣ Dark Space Startup Animation**
-
-![Space Rocket GIF](https://i.imgur.com/XuD0mcu.gif)
+![rocket](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
 
 ---
 
-#### **4️⃣ Blue Neon Tech Launch GIF**
+### **3️⃣ Space Rocket Loop**
 
-![Neon Tech GIF](https://i.imgur.com/Oo7tQbF.gif)
+![rocket](https://media.giphy.com/media/5t9Ic6tqM0DwE/giphy.gif)
 
 ---
 
-#### **5️⃣ Futuristic Loading Rocket**
+### **4️⃣ Rocket Line-Art Animation (Dark Friendly)**
 
-![Loading Rocket](https://i.imgur.com/v2J2m1f.gif)
+![rocket](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+---
+
+### **5️⃣ Startup Launch Rocket**
+
+![rocket](https://media.giphy.com/media/3ohs7YsX53G4ZmPxSw/giphy.gif)
+
+---
 
 - 👨‍💻 Check out my Work [Portfolio](https://gpchandu08.github.io/Portfolio/)
 
