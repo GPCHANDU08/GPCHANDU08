@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGhJRP9lLTuNQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdoEPszHoAg-/0/1749797634200?e=1766620800&v=beta&t=EGupC7Fdp9Lwm9mLYZlou1eYob6J1DkTi65AIUBr3Nc)](https://gpchandu08.github.io/Portfolio/) 
    
-<h1 align="center">Hey there! 👋, I'm Poorna Chand Goparaju r</h1>  
+<h1 align="center">Hey there! 👋, I'm Poorna Chand Goparaju</h1>  
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=GPCHANDU08&label=Profile%20views&color=0e75b6&style=flat&base=2562"
