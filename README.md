@@ -56,8 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GPCHANDU08&" alt="GPCHANDU08" /></p>
-
 ## 📊 GitHub Insights
 
 ### 🔥 Streak Stats  
@@ -73,5 +71,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gpchandu08&theme=react-dark)
 
 ### 📦 Metrics Summary  
-![Metrics](https://metrics.lecoq.io/gpchandu08?template=classic&base=header,activity.timezone=Asia/Calcutta)
+![Metrics](https://metrics.lecoq.io/gpchandu08?template=terminal&raw=1)
+
 
