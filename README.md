@@ -60,7 +60,7 @@
 
 ### 🔥 Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gpchandu08&theme=dark)
-
+### 📁 Tech Stack Distribution
 <div style="display: flex; justify-content: space-between; gap: 10px;">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpchandu08&theme=github_dark" width="48%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpchandu08&theme=github_dark" width="48%">
