@@ -56,15 +56,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpchandu08&show_icons=true&locale=en&layout=compact" alt="GPCHANDU08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpchandu08&show_icons=true&locale=en" alt="GPCHANDU08" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GPCHANDU08&" alt="GPCHANDU08" /></p>
-## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gpchandu08&show_icons=true&theme=dark" height="160">
+## 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpchandu08&layout=compact&theme=dark" height="160">
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=gpchandu08&theme=dark)
+
+### 📚 Languages Used  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpchandu08&theme=github_dark)
+
+### 📁 Repo Language Distribution  
+![Repo Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpchandu08&theme=github_dark)
+
+### 📈 Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gpchandu08&theme=react-dark)
+
+### 📦 Metrics Summary  
+![Metrics](https://metrics.lecoq.io/gpchandu08?template=classic&base=header,activity,community,repositories&config.timezone=Asia/Calcutta)
 
