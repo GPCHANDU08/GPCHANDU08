@@ -62,7 +62,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gpchandu08&theme=dark)
 
 ### 📚 Languages Used  
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpchandu08&theme=github_dark) ### 📁 Repo Language Distribution  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpchandu08&theme=github_dark) 
+### 📁 Repo Language Distribution  
 ![Repo Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpchandu08&theme=github_dark)
 
 
