@@ -71,7 +71,8 @@
 ### 📈 Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gpchandu08&theme=react-dark)
 
-### 📦 Metrics Summary  
-![Metrics](https://metrics.lecoq.io/gpchandu08?template=classic&raw=1)
+### 📊 GitHub Metrics  
+![Metrics](https://metrics.lecoq.io/gpchandu08?template=classic&config.timezone=Asia%2FKolkata&config.animated=true&config.theme=dark)
+
 
 
