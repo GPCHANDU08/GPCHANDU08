@@ -3,7 +3,7 @@
 <h1 align="center">Hey there! 👋, I'm Poorna Chand Goparaju</h1>  
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=GPCHANDU08&label=Profile%20views&color=0e75b6&style=flat&base=2562"
+    src="https://komarev.com/ghpvc/?username=GPCHANDU08&label=Profile%20views&color=orange&style=flat&base=2562"
     alt="GPCHANDU08 profile views"
   />
 </p>
